@@ -1,0 +1,8 @@
+.venv/
+.env
+__pycache__/
+*.duckdb
+eval/results/*.json
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
